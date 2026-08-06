@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Angshuman25/DSA__Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Angshuman25/DSA__Journey/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Angshuman25/DSA__Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Angshuman25/DSA__Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Angshuman25/DSA__Journey/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Angshuman25/DSA__Journey/tree/master/0238-product-of-array-except-self) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Angshuman25/DSA__Journey/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
