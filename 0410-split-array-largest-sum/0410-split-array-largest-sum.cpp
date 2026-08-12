@@ -35,7 +35,7 @@ public:
             // Check if our guess worked
             if(pieces <= k) {
                 answer = mid; // This limit works! Save it
-                high = mid-1; // Try to make a smaller working limit
+                high = mid-1; // Try to find a smaller working limit
             } else {
                 low = mid+1; // Too many pieces! The limit is too small
             }
