@@ -22,11 +22,11 @@ public:
                }
            }
 
-           if(ballsPlaced >= m) {
+           if(ballsPlaced >= m) { // Mid is possible ans
               ans = mid;
-              low = mid+1;
-           } else {
-              high = mid-1;
+              low = mid+1; // Right Search
+           } else { // Mid is not possible ans
+              high = mid-1; // Left Search
            }
        }
        return ans;
