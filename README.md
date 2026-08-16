@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0852-peak-index-in-a-mountain-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Angshuman25/DSA__Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
