@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Angshuman25/DSA__Journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Angshuman25/DSA__Journey/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Angshuman25/DSA__Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Angshuman25/DSA__Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Angshuman25/DSA__Journey/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Angshuman25/DSA__Journey/tree/master/0169-majority-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Angshuman25/DSA__Journey/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Angshuman25/DSA__Journey/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Angshuman25/DSA__Journey/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Angshuman25/DSA__Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
