@@ -10,7 +10,7 @@ public:
                 return mid;
             } else if(A[mid-1] < A[mid]) {
                 st=mid+1;
-            } else {
+            } else { // A[mid] > A[mid+1] 
                 end=mid-1;
             }
         }
