@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Angshuman25/DSA__Journey/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Angshuman25/DSA__Journey/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Angshuman25/DSA__Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Angshuman25/DSA__Journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Angshuman25/DSA__Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Angshuman25/DSA__Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Angshuman25/DSA__Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Angshuman25/DSA__Journey/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Angshuman25/DSA__Journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Angshuman25/DSA__Journey/tree/master/0567-permutation-in-string) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Angshuman25/DSA__Journey/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Angshuman25/DSA__Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Angshuman25/DSA__Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Angshuman25/DSA__Journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0287-find-the-duplicate-number) |
 ## Ternary Search
 |  |
 | ------- |
@@ -174,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Angshuman25/DSA__Journey/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Angshuman25/DSA__Journey/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/Angshuman25/DSA__Journey/tree/master/2965-find-missing-and-repeated-values) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
