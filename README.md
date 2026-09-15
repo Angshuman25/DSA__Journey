@@ -93,17 +93,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Angshuman25/DSA__Journey/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Angshuman25/DSA__Journey/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Angshuman25/DSA__Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Angshuman25/DSA__Journey/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Angshuman25/DSA__Journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Angshuman25/DSA__Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Angshuman25/DSA__Journey/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
