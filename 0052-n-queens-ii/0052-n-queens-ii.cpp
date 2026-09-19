@@ -37,7 +37,7 @@ public:
            count++;
            return;
         }
-         // Try placing a queen in each column of the current row
+        // Try placing a queen in each column of the current row
         for(int j=0; j<n; j++) {
             if(isSafe(board , row , j , n)) {
                 board[row][j] = 'Q';
