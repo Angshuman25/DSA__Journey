@@ -18,6 +18,7 @@ public:
             if(isPalin(part)) {
                 partitions.push_back(part);
                 getAllParts(s.substr(i+1) , partitions , ans);
+                // Backtrack
                 partitions.pop_back();
             }
         }
