@@ -3,9 +3,11 @@ public:
     set<vector<int>>s;
 
     void getAllCombinations(vector<int> &arr , int idx , int tar , vector<vector<int>> &ans , vector<int> &combin) {
+        // Base Case
         if(idx == arr.size() || tar < 0) {
             return;
         }
+        // Base Case
         if(tar == 0) {
             if(s.find(combin) == s.end()) {
                 ans.push_back(combin);
