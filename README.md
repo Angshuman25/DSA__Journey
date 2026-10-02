@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Angshuman25/DSA__Journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Angshuman25/DSA__Journey/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Angshuman25/DSA__Journey/tree/master/1672-richest-customer-wealth) |
+| [2596-check-knight-tour-configuration](https://github.com/Angshuman25/DSA__Journey/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Angshuman25/DSA__Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Angshuman25/DSA__Journey/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Angshuman25/DSA__Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/Angshuman25/DSA__Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Angshuman25/DSA__Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Angshuman25/DSA__Journey/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Angshuman25/DSA__Journey/tree/master/1672-richest-customer-wealth) |
+| [2596-check-knight-tour-configuration](https://github.com/Angshuman25/DSA__Journey/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Angshuman25/DSA__Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Pigeonhole Principle
 |  |
@@ -237,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Angshuman25/DSA__Journey/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Angshuman25/DSA__Journey/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Angshuman25/DSA__Journey/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
