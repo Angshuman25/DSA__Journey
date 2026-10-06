@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Angshuman25/DSA__Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Angshuman25/DSA__Journey/tree/master/0704-binary-search) |
+| [0775-global-and-local-inversions](https://github.com/Angshuman25/DSA__Journey/tree/master/0775-global-and-local-inversions) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Angshuman25/DSA__Journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Angshuman25/DSA__Journey/tree/master/1572-matrix-diagonal-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Angshuman25/DSA__Journey/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Angshuman25/DSA__Journey/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0509-fibonacci-number) |
+| [0775-global-and-local-inversions](https://github.com/Angshuman25/DSA__Journey/tree/master/0775-global-and-local-inversions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Angshuman25/DSA__Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
