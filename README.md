@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Angshuman25/DSA__Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/Angshuman25/DSA__Journey/tree/master/0410-split-array-largest-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Angshuman25/DSA__Journey/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Angshuman25/DSA__Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Angshuman25/DSA__Journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Angshuman25/DSA__Journey/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Angshuman25/DSA__Journey/tree/master/0169-majority-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Angshuman25/DSA__Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Angshuman25/DSA__Journey/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Angshuman25/DSA__Journey/tree/master/2965-find-missing-and-repeated-values) |
