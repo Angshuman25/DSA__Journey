@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Angshuman25/DSA__Journey/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Angshuman25/DSA__Journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Angshuman25/DSA__Journey/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Angshuman25/DSA__Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -303,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Angshuman25/DSA__Journey/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Angshuman25/DSA__Journey/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
