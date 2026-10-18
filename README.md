@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Angshuman25/DSA__Journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Angshuman25/DSA__Journey/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Angshuman25/DSA__Journey/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Angshuman25/DSA__Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Angshuman25/DSA__Journey/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Angshuman25/DSA__Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Angshuman25/DSA__Journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Angshuman25/DSA__Journey/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Angshuman25/DSA__Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Angshuman25/DSA__Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Angshuman25/DSA__Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0287-find-the-duplicate-number) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Angshuman25/DSA__Journey/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Angshuman25/DSA__Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Angshuman25/DSA__Journey/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Angshuman25/DSA__Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Angshuman25/DSA__Journey/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Angshuman25/DSA__Journey/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
