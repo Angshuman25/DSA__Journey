@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Angshuman25/DSA__Journey/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Angshuman25/DSA__Journey/tree/master/0509-fibonacci-number) |
 | [0775-global-and-local-inversions](https://github.com/Angshuman25/DSA__Journey/tree/master/0775-global-and-local-inversions) |
+| [2235-add-two-integers](https://github.com/Angshuman25/DSA__Journey/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Angshuman25/DSA__Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
