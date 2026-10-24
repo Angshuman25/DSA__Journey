@@ -37,7 +37,7 @@ public:
                     next->prev = curr;
                 }
             }
-            curr = curr->next;   // Child Dont Exists
+            curr = curr->next;   // Resuming Traversal
         }
         return head;
     }
