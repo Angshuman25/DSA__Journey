@@ -18,7 +18,7 @@ public:
         }
         Node* curr = head;
         while(curr != NULL) {
-            if(curr->child != NULL) {   // If Child Exists , then we are going to execute this if statement otherwise we will update the curr for the next node 
+            if(curr->child != NULL) {   // If Child Exists for currnt node , then we are going to execute this if statement otherwise we will update the curr for the next node 
 
                 // Flatten the Child Nodes
                 Node* next = curr->next;
@@ -38,7 +38,7 @@ public:
                     next->prev = curr;
                 }
             }
-            curr = curr->next;   // Resuming Traversal , If Child dont exist then we are going in next node by updating curr 
+            curr = curr->next;   // Resuming Traversal , If Child dont exist for previous node then we are going in next node by updating curr 
         }
         return head;
     }
