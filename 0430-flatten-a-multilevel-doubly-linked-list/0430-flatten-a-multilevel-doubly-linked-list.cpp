@@ -18,8 +18,8 @@ public:
         }
         Node* curr = head;
         while(curr != NULL) {
-            if(curr->child != NULL) {   // Child Exists , then we are going to execute this if statement otherwise we will update the curr for the next node 
-            
+            if(curr->child != NULL) {   // If Child Exists , then we are going to execute this if statement otherwise we will update the curr for the next node 
+
                 // Flatten the Child Nodes
                 Node* next = curr->next;
                 curr->next = flatten(curr->child);
