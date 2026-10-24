@@ -12,12 +12,13 @@ public:
 class Solution {
 public:
     Node* flatten(Node* head) {
+        // Base Case
         if(head == NULL) {
             return head;
         }
         Node* curr = head;
         while(curr != NULL) {
-            if(curr->child != NULL) {
+            if(curr->child != NULL) {   // Child Exists
                 // Flatten the Child Nodes
                 Node* next = curr->next;
                 curr->next = flatten(curr->child);
@@ -36,7 +37,7 @@ public:
                     next->prev = curr;
                 }
             }
-            curr = curr->next;
+            curr = curr->next;   // Child Dont Exists
         }
         return head;
     }
