@@ -15,13 +15,14 @@ public:
         if(head == NULL || head->next == NULL) {
             return head;
         }
-        
+
         // Initializing Three Pointers
         ListNode* first = head;
         ListNode* sec = head->next;
         ListNode* prev = NULL;
 
         while(first != NULL && sec != NULL) {
+            
             // Storing next node of pairs which we are swapping in third pointer , Breaking old connections and making new connections 
             ListNode* third = sec->next;
             sec->next = first;
