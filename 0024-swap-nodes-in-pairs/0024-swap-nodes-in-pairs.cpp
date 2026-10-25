@@ -44,6 +44,7 @@ public:
                 sec = NULL;
             }
         }
+        // Return the head of the new modified linked list after swapping
         return head;
     }
 };
