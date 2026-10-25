@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
-        
+
         // Base Case
         if(head == NULL || head->next == NULL) {
             return head;
@@ -24,7 +24,7 @@ public:
 
         while(first != NULL && sec != NULL) {
 
-            // Storing next node of pairs which we are swapping in third pointer , Breaking old connections and making new connections 
+            // Storing next node of pairs which we are swapping in third pointer , Breaking old connections and making new connections to swap
             ListNode* third = sec->next;
             sec->next = first;
             first->next = third;
