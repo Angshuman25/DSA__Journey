@@ -15,6 +15,7 @@ public:
         if(head == NULL || head->next == NULL) {
             return head;
         }
+        
         // Initializing Three Pointers
         ListNode* first = head;
         ListNode* sec = head->next;
