@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Angshuman25/DSA__Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Angshuman25/DSA__Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Angshuman25/DSA__Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Angshuman25/DSA__Journey/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Angshuman25/DSA__Journey/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Angshuman25/DSA__Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -322,11 +323,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Angshuman25/DSA__Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Angshuman25/DSA__Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Angshuman25/DSA__Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Angshuman25/DSA__Journey/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Angshuman25/DSA__Journey/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Angshuman25/DSA__Journey/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Angshuman25/DSA__Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Angshuman25/DSA__Journey/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Angshuman25/DSA__Journey/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Angshuman25/DSA__Journey/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
