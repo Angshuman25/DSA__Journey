@@ -1,5 +1,5 @@
 class StockSpanner {
-private:
+public:
     stack<int> s;  // Stack to store the day indices
     vector<int> prices;  // Vector to store the prices as they arrive
     int day_index;  // Tracks the current day(starts at 0)
