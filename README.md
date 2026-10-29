@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Angshuman25/DSA__Journey/tree/master/0020-valid-parentheses) |
+| [0901-online-stock-span](https://github.com/Angshuman25/DSA__Journey/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Angshuman25/DSA__Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -338,8 +339,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Angshuman25/DSA__Journey/tree/master/0146-lru-cache) |
+| [0901-online-stock-span](https://github.com/Angshuman25/DSA__Journey/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Angshuman25/DSA__Journey/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Angshuman25/DSA__Journey/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Angshuman25/DSA__Journey/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
