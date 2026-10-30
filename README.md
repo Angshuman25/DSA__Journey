@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Angshuman25/DSA__Journey/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Angshuman25/DSA__Journey/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Angshuman25/DSA__Journey/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Angshuman25/DSA__Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Angshuman25/DSA__Journey/tree/master/0704-binary-search) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Angshuman25/DSA__Journey/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Angshuman25/DSA__Journey/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Angshuman25/DSA__Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Angshuman25/DSA__Journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Angshuman25/DSA__Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Angshuman25/DSA__Journey/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Angshuman25/DSA__Journey/tree/master/2965-find-missing-and-repeated-values) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Angshuman25/DSA__Journey/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Angshuman25/DSA__Journey/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Angshuman25/DSA__Journey/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Angshuman25/DSA__Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Angshuman25/DSA__Journey/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Angshuman25/DSA__Journey/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
