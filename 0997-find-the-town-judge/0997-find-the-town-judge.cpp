@@ -1,52 +1,27 @@
 class Solution {
 public:
-    int getCelebrity(vector<vector<int>>& M) {
-        int n = M.size();
-        stack<int> s;
-
-        for(int i = 0; i < n; i++) {
-            s.push(i);
-        }
-
-        while(s.size() >= 2) {
-            int i = s.top();  s.pop();
-            int j = s.top();  s.pop();
-
-            if(M[i][j] == 0) {
-                s.push(i);
-            } else {   // M[i][j] == 1
-                s.push(j);
-            }
-        }
-
-        int celeb = s.top();  s.pop();
-
-        for(int i = 0; i < n; i++) {
-            if(i != celeb) {
-                if(M[i][celeb] == 0 || M[celeb][i] == 1) {
-                    return -1;
-                }
-            }
-        }
-
-        return celeb;
-    }
-
     int findJudge(int n, vector<vector<int>>& trust) {
-        vector<vector<int>> M(n , vector<int> (n , 0));
+       // Create a 1D Array of size n + 1 filled with 0s
+       // We use size n + 1 so we can use people's actual names ( 1 to n ) as indices
+       vector<int> scores(n + 1 , 0);
 
-        for(int k = 0; k < trust.size(); k++) {
-            int personA = trust[k][0] - 1;
-            int personB = trust[k][1] - 1;
-            M[personA][personB] = 1;
-        }
+       // Step 1 : Loop through all trust pairs and update scores
+       for(int k = 0; k < trust.size(); k++) {
+           int personA = trust[k][0];   // The Person who trusts
+           int personB = trust[k][1];   // The Person who being trusted
 
-        int ans = getCelebrity(M);
+           scores[personA]--;   // personA loses a point( Judge dont trusts anyone )
+           scores[personB]++;   // personB gains a point( Judges are trusted )
+       }
 
-        if(ans != -1) {
-            return ans + 1;
-        }
+       // Step 2 : Check who has a score of exactly n - 1
+       for(int i = 1; i <= n; i++) {
+           if(scores[i] == n - 1) {
+              return i;   // Found the judge
+           }
+       }
 
-        return -1;
+       // If no one got a score of n - 1 , there is no judge
+       return -1;
     }
 };
