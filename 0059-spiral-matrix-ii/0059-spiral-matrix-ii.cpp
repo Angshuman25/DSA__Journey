@@ -18,13 +18,11 @@ public:
 
             // Bottom
             for(int j = eCol - 1; j >= sCol; j--) {
-                if(sRow == eRow) break;
                 mat[eRow][j] = num++;
             }
 
             // Left
             for(int i = eRow - 1; i >= sRow + 1; i--) {
-                if(sCol == eCol) break;
                 mat[i][sCol] = num++;
             }
             sRow++; eRow--; sCol++; eCol--;
