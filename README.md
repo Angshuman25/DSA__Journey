@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Angshuman25/DSA__Journey/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Angshuman25/DSA__Journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Angshuman25/DSA__Journey/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Angshuman25/DSA__Journey/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Angshuman25/DSA__Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Angshuman25/DSA__Journey/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Angshuman25/DSA__Journey/tree/master/0078-subsets) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Angshuman25/DSA__Journey/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Angshuman25/DSA__Journey/tree/master/0059-spiral-matrix-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Angshuman25/DSA__Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2596-check-knight-tour-configuration](https://github.com/Angshuman25/DSA__Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Angshuman25/DSA__Journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Angshuman25/DSA__Journey/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Angshuman25/DSA__Journey/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Angshuman25/DSA__Journey/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Angshuman25/DSA__Journey/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Angshuman25/DSA__Journey/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Angshuman25/DSA__Journey/tree/master/0240-search-a-2d-matrix-ii) |
