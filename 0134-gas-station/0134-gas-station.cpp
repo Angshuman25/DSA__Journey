@@ -4,22 +4,13 @@ public:
         int totalGas = 0;
         int totalCost = 0;
 
-        for(int val : gas) {
-            totalGas += val;
-        }
-
-        for(int val : cost) {
-            totalCost += val;
-        }
-
-        if(totalGas < totalCost) {
-            return -1;
-        }
-
-        // Unique Solution always exist
+        // Unique Solution always exists
         int start = 0 , currGas = 0;
 
         for(int i = 0; i < gas.size(); i++) {
+            totalGas += gas[i];
+            totalCost += cost[i];
+
             currGas += (gas[i] - cost[i]);
 
             if(currGas < 0) {
@@ -27,6 +18,8 @@ public:
                 currGas = 0;
             }
         }
-        return start;
+
+        return totalGas < totalCost ? -1 : start;
+
     }
 };
