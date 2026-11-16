@@ -13,7 +13,7 @@ public:
             return;
         }
         for(int i=0; i<s.size(); i++) {
-            string part = s.substr(0 ,i+1);
+            string part = s.substr(0 , i+1);
 
             if(isPalin(part)) {
                 partitions.push_back(part);
