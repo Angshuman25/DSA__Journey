@@ -311,11 +311,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Angshuman25/DSA__Journey/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/Angshuman25/DSA__Journey/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Angshuman25/DSA__Journey/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/Angshuman25/DSA__Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Angshuman25/DSA__Journey/tree/master/0100-same-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Angshuman25/DSA__Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Indexed Tree
 |  |
@@ -409,4 +411,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Angshuman25/DSA__Journey/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Angshuman25/DSA__Journey/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Angshuman25/DSA__Journey/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
